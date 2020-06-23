@@ -1,0 +1,6 @@
+# Python GIT Ignore
+
+*__pycache__
+
+.idea/*
+
